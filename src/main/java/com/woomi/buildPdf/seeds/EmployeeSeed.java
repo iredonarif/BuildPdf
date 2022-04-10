@@ -27,14 +27,14 @@ public class EmployeeSeed implements CommandLineRunner {
             {"Laravel", "PHP", "00809-59-73-63-42", "laravel.php@woomi.com", "Female", "Software Developer", "16-07-1995", "14-11-2023", "It city"},
             {"Insert", "ORACLE", "00809-29-38-54-94", "insert.oracle@woomi.com", "Female", "Database Admin", "12-07-1996", "17-07-2024", "Phico valley"},
             {"Plsql", "POSTGRESQL", "00809-70-20-39-12", "plsql.postgresql@woomi.com", "Male", "Database Admin", "23-08-1995", "17-07-2024", "Promo city"},
-            {"Komlan", "KODJO", "00809-54-18-63-35", "komlan.kodjo@woomi.com", "Male", "Seller", "25-08-1995", "04-04-2024", "Promo town"},
-            {"Komlan", "KODJO", "00809-62-37-18-44", "komlan.kodjo@woomi.com", "Male", "Seller", "25-08-1995", "04-04-2024", "Icno Land"},
-            {"Komlan", "KODJO", "00809-26-39-17-28", "komlan.kodjo@woomi.com", "Male", "Seller", "25-08-1995", "04-04-2024", "Phibo tech land"},
-            {"Komlan", "KODJO", "00809-43-54-12-77", "komlan.kodjo@woomi.com", "Male", "Seller", "25-08-1995", "04-04-2024", "Gta road"},
-            {"Komlan", "KODJO", "00809-33-45-11-78", "komlan.kodjo@woomi.com", "Male", "Seller", "25-08-1995", "04-04-2024", "Road 52"},
-            {"Komlan", "KODJO", "00809-48-42-16-84", "komlan.kodjo@woomi.com", "Male", "Seller", "25-08-1995", "04-04-2024", "Woomi House"},
-            {"Komlan", "KODJO", "00809-19-94-61-97", "komlan.kodjo@woomi.com", "Male", "Seller", "25-08-1995", "04-04-2024", "Woomi City"},
-            {"Komlan", "KODJO", "00809-17-99-41-19", "komlan.kodjo@woomi.com", "Male", "Seller", "25-08-1995", "04-04-2024", "Woomi Land"},
+            {"Koute", "FAKOU", "00809-84-17-64-51", "koute.fakou@woomi.com", "Male", "Product Seller", "15-04-1996", "06-06-2024", "Sun city"},
+            {"Fabiane", "ISTA", "00809-63-37-18-14", "fabiane.ista@woomi.com", "Female", "Secretary", "25-08-1997", "26-04-2023", "Moon city"},
+            {"itext", "PDF", "00809-26-39-17-28", "itext.pdf@woomi.com", "Male", "VAS Projet Manager", "21-07-1994", "02-03-2024", "Phibo tech land"},
+            {"Red", "Phougami", "00809-43-54-12-77", "red.phougami@woomi.com", "Male", "Team Lead", "25-08-1994", "04-04-2024", "Gta road"},
+            {"White", "LEBLANC", "00809-33-45-11-78", "white.leblanc@woomi.com", "Male", "Software Developer", "14-03-1996", "10-08-2024", "Road 52"},
+            {"Spring", "BOOT", "00809-48-42-16-84", "spring.boot@woomi.com", "Female", "Java Developer", "15-08-1995", "14-01-2025", "Woomi House"},
+            {"Safaya", "FATASOW", "00809-19-94-61-97", "safaya.fatasow@woomi.com", "Female", "DevOps", "25-08-1995", "12-02-2025", "Woomi City"},
+            {"Koudous", "SANGUIRA", "00809-17-99-41-19", "koudous.sanguira@woomi.com", "Male", "DevOps", "21-07-1995", "12-02-2024", "Woomi City"},
         };
 
         for (String[] employee: employees) {
